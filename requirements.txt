@@ -4,8 +4,6 @@ pefile==2024.8.26
 pyinstaller==6.19.0
 pyinstaller-hooks-contrib==2026.4
 PyQt6==6.11.0
-PyQt6-Qt6==6.11.0
-PyQt6_sip==13.11.1
 pywin32-ctypes==0.2.3
 qtgui==0.0.1
 setuptools==82.0.1
